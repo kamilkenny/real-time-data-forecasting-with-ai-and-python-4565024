@@ -213,7 +213,7 @@ The approach demonstrates how AI can be responsibly embedded into ISO planning w
 
 # Conclusion
 
-This case study illustrates a complete AI lifecycle—from raw data ingestion to inference—tailored for ISO‑level energy planning. By combining robust feature engineering, structured feature storage, and interpretable machine‑learning models, the solution delivers practical multi‑day demand forecasts that directly support system reliability and strategic decision‑making.
+This case study illustrates a complete AI lifecycle, from raw data ingestion to inference tailored for ISO‑level energy planning. By combining robust feature engineering, structured feature storage, and interpretable machine‑learning models, the solution delivers practical multi‑day demand forecasts that directly support system reliability and strategic decision‑making.
 
 The work evidences the ability to translate advanced analytics into operational value, reinforcing the role of AI‑driven solutions in whole‑system energy planning.
 
@@ -244,7 +244,7 @@ To resolve this issue:
 	Commit changes using this command: git commit -m "some message"
 
 
-KAMIL RIDWAN KEHINDE
+# KAMIL RIDWAN KEHINDE
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
