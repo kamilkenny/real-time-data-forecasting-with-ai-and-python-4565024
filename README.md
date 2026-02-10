@@ -1,5 +1,5 @@
 # Real-Time Data Forecasting with AI and Python
-This is the repository for the LinkedIn Learning course `Real-Time Data Forecasting with AI and Python`. The full course is available from [LinkedIn Learning][lil-course-url].
+
 
 ![lil-thumbnail-url]
 
@@ -25,15 +25,7 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-### Instructor
 
-Tobias Zwingmann
-
-AI expert, Author, Keynote Speaker
-
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/tobias-zwingmann?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
