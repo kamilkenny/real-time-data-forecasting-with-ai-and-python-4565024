@@ -1,7 +1,7 @@
 # Real-Time Data Forecasting with AI and Python
 
 <img width="218" height="181" alt="edf" src="https://github.com/user-attachments/assets/775e8cc1-f6ec-4ead-8cbf-04cf781f1bc8" />
-![edf2](https://github.com/user-attachments/assets/acd4e757-af26-4abd-8fc2-29992e0cc25c)
+
 
 
 <p>For any business, gaining and understanding insights into future trends, customer demands, or market conditions is an important factor in success. And with the wide availability of machine learning and artificial intelligence tools, thousands of businesses are able to enhance their operations through time series forecasting. in this design we introduced time series forecasting using Python and AI and shows how you can apply them to your business. Learn how to translate forecasting workflows from static, classroom problems to dynamic, real-time use cases. Plus, find out about the tools and approaches you can apply to other AI and machine learning tasks.</p>
