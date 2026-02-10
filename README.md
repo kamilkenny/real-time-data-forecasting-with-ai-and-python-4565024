@@ -1,4 +1,4 @@
-# # REAL-TIME DATA FORECASTING WITH AI AND PYTHON
+# REAL-TIME DATA FORECASTING WITH AI AND PYTHON
 
 <img width="218" height="181" alt="edf" src="https://github.com/user-attachments/assets/775e8cc1-f6ec-4ead-8cbf-04cf781f1bc8" />
 
